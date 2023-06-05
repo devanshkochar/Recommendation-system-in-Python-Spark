@@ -1,0 +1,3 @@
+LSH improves the speed of the recommendation system.
+Without LSH, we need to find the Pearson Correlation Coefficient between all pairs of items.
+But with LSH, we first generate similar pairs and then find the Pearson Correlation Coefficient between them, thus improving speed.

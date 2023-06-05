@@ -1,0 +1,17 @@
+Spark Version : 2.3.3
+Python Version : 3.7.1
+
+Baseline Tables(Task 2) :
+
+Case 1 :
+RMSE : 1.16
+Runtime(secs) : 33.58
+
+Case 2 :
+RMSE : 1.07
+Runtime(secs) : 90.76
+
+Case 3 :
+RMSE : 1.09
+Runtime(secs) : 186
+
